@@ -1,1 +1,1 @@
-# chat_gpt
+Telegram bot with built-in chat-gpt API
